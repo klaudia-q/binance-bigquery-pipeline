@@ -294,19 +294,19 @@ WHERE DATE(event_time) >= '2025-02-01'
 ## 📸 Screenshots
 
 ### Google Cloud Storage
-![GCS Bucket](screenshots/gcs-bucket.png)
+![GCS Bucket](Screeny/gcs-bucket.png)
 *Data lake bucket configured (europe-central2)*
 
 ### BigQuery Optimization
-![BigQuery](screenshots/bigquery-config.png)
+![BigQuery](Screeny/bigquery-optimization.png)
 *Partitioned table with mandatory filters*
 
 ### Apache NiFi UI
-![NiFi](screenshots/nifi-ui.png)
+![NiFi](Screeny/nifi-ui.png)
 *NiFi 2.7.2 operational and ready*
 
 ### Cost Breakdown
-![Costs](screenshots/cost-breakdown.png)
+![Costs](Screeny/cost-breakdown.png)
 *PLN 0.00 after optimizations*
 
 ---
